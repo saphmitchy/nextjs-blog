@@ -4,6 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 import React from 'react';
+import Document from 'next/document';
 
 const name = 'sapphire15';
 export const siteTitle = 'Next.js Sample Website';
